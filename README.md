@@ -1,4 +1,4 @@
-**Raspberry Pi Wireless Acess Point with an 3.2" LCD Display
+*Raspberry Pi Wireless Acess Point with an 3.2" LCD Display
 
 Display:
 - load of the Raspberry
